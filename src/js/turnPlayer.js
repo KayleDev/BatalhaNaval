@@ -1,1 +1,3 @@
-definitivamente algo
+window.addEventListener("click", () => {
+    alert("algo")
+});_
