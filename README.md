@@ -1,1 +1,1 @@
-Jogo de batalha naval criado por: Caio Alessandro, Lucas Leite, Eduardo Matos, Gustavo Simplicio, Vicenzo Gallo, Inácio, Vinicius Zwarg, Almir Pereira e Gustavo Soares
+Jogo de batalha naval criado por: Caio, Lucas, Eduardo, Gustavo, Vicenzo, Inácio, Vinicius, Almir e Gustavo Soares
