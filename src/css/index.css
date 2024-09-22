@@ -25,6 +25,7 @@ body {
 
 .btMedium {
   width: 100%;
+  cursor: pointer;
 }
 
 .btSmallContainer {
@@ -36,4 +37,9 @@ body {
 
 .btSmall {
   width: 49%;
+  cursor: pointer;
+}
+
+.btSmall:hover, .btMedium:hover {
+  filter: invert(100%);
 }
