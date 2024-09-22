@@ -43,3 +43,21 @@ body {
 .btSmall:hover, .btMedium:hover {
   filter: invert(100%);
 }
+
+@media (max-height: 560px) {
+  #titleImg {
+    width: 100vh;
+    max-width: 90%;
+    margin-top: 5vh;
+  }
+  
+  .btContainer {
+    width: 80vh;
+    max-width: 90%;
+    margin-bottom: 10vh;
+  }
+
+  .btSmallContainer {
+    margin-top: 5vh;
+  }
+}
